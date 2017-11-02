@@ -1,0 +1,5 @@
+allensdk
+pandas
+numpy
+os
+matplotlib
